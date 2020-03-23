@@ -10,13 +10,9 @@
 
 - dentro da pasta backend executar os comando abaixo para criar arquivo package.json
 - instalação do framework express para nodeJS
-  ...
-  npm init -y _//criação arquivo package.json_
-  npm install express _// instalação dependência_
-  teste(){
-  println("hello")
-  }
-  ...
+- comandos:
+  1. npm init -y _//criação arquivo package.json_
+  2. npm install express _// instalação dependência_
 
 ### 3. Passo
 
